@@ -20,9 +20,6 @@ pip install time
 pip install random2
 ```
 ```bash
-pip install random2
-```
-```bash
 pip install datetime
 ```
 > [!IMPORTANT]
