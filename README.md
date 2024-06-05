@@ -1,5 +1,5 @@
 # KZU-Runner
-Dies ist der Sourcecode zum KZU-Runner vom Arcade PoL
+Dies ist der Sourcecode zum KZU-Runner vom Arcade PoL der KZU.
 
 # Installation
 
