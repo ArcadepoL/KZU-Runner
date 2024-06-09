@@ -4,7 +4,7 @@ Dies ist der Sourcecode zum KZU-Runner vom Arcade PoL der KZU.
 # Installation
 
 1. Downloade die neuste Version von Python (https://www.python.org/downloads/) und öffne sie für die Installation.
-2. Downloade dann die Datei für den KZU Runner, indem du zuerst auf das Feld **Code** klickst und nachher die ZIP-Datei anwählst. Entzippe aus dieser Datei dann den Ordner aus **kzu_runner**.
+2. Downloade dann die Datei für den KZU Runner, indem du zuerst auf das Feld **Code** klickst und nachher die ZIP-Datei anwählst. Entzippe aus dieser Datei dann den Ordner **kzu_runner**.
 3. Dann wechsle in deine Kommandkonsole und installiere die folgenden Module.
 
 # Benötigte Module
