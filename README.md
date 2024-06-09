@@ -13,15 +13,15 @@ Installiere zuerst das Modul pip, indem du den Code in deine Kommandokonsole kop
 
 Windows:
 ```bash
-py -m ensurepip --upgrade
+py get-pip.py
 ```
 MacOS:
 ```bash
-python -m ensurepip --upgrade
+python get-pip.py
 ```
 Linux:
 ```bash
-python -m ensurepip --upgrade
+python get-pip.py
 ```
 Dann kannst du jetzt die folgenden Module installieren. Kopiere dazu wieder den Code in deine Kommandokonsole.
 ```bash
