@@ -9,7 +9,21 @@ Dies ist der Sourcecode zum KZU-Runner vom Arcade PoL der KZU.
 
 # Benötigte Module
 
-Installiere folgende Module mit pip.
+Installiere zuerst das Modul pip, indem du den Code in deine KOmmandokonsole kopierst.
+
+Windows:
+```bash
+py -m ensurepip --upgrade
+```
+MacOS:
+```bash
+python -m ensurepip --upgrade
+```
+Linux:
+```bash
+python -m ensurepip --upgrade
+```
+Dann kannst du jetzt die folgenden Module installieren. Kopiere dazu wieder den Code in deine Kommandokonsole.
 ```bash
 pip install pygame
 ```
