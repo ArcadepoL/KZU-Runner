@@ -26,7 +26,7 @@ pip install datetime
 > Stelle sicher, dass du das Package pip installiert hast, es sollte aber standartmässig bei der Installation von Python dabei sein.
 
 # Viel Spass beim gamen!
-Nach erfolgreichem installieren der Module musst du nur noch den den Ordner **kzu_runner** öffnen und darin die Datei **main.pyw** öffnen.
+Nach erfolgreichem installieren der Module musst du nur noch in den Ordner **kzu_runner** wechseln und darin die Datei **main.pyw** öffnen.
 
 
 [Unser Instagram](https://www.instagram.com/arcade_pol_kzu)
