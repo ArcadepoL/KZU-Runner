@@ -9,7 +9,7 @@ Dies ist der Sourcecode zum KZU-Runner vom Arcade PoL der KZU.
 
 # Benötigte Module
 
-Installiere zuerst das Modul pip, indem du den Code in deine KOmmandokonsole kopierst.
+Installiere zuerst das Modul pip, indem du den Code in deine Kommandokonsole kopierst.
 
 Windows:
 ```bash
