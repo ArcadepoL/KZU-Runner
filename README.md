@@ -14,9 +14,6 @@ Du kannst du jetzt die folgenden Module installieren. Kopiere dazu wieder den Co
 pip install pygame
 ```
 ```bash
-pip install time
-```
-```bash
 pip install random2
 ```
 ```bash
